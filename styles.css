@@ -1,0 +1,152 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  letter-spacing: 1px;
+}
+
+::selection {
+  background-color: #76BA99;
+  color: #FFDCAE;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.title1 {
+  color: white;
+  font-weight: bold;
+  font-family: "Montserrat";
+  width: 60%;
+  position: absolute;
+  right: 30%;
+  margin-top: 250px;
+}
+
+.subtitle1 {
+  color: white;
+  font-family: "Montserrat";
+  width: 60%;
+  position: absolute;
+  right: 30%;
+  margin-top: 325px;
+}
+
+.title2 {
+  color: white;
+  font-weight: bold;
+  font-family: "Montserrat";
+  width: 60%;
+  position: absolute;
+  right: 30%;
+  margin-top: 250px;
+}
+
+.subtitle2 {
+  color: white;
+  font-family: "Montserrat";
+  width: 60%;
+  position: absolute;
+  right: 30%;
+  margin-top: 325px;
+}
+
+.title3 {
+  color: white;
+  font-weight: bold;
+  font-family: "Montserrat";
+  width: 60%;
+  position: absolute;
+  right: 30%;
+  margin-top: 250px;
+}
+
+.subtitle3 {
+  color: white;
+  font-family: "Montserrat";
+  width: 60%;
+  position: absolute;
+  right: 30%;
+  margin-top: 325px;
+}
+
+.jumbotron {
+  margin-top: 50px;
+  background-color: #54BAB9;
+  color: white;
+}
+
+.testimonial {
+  background-color: #54BAB9;
+  color: white;
+  font-family: "Montserrat";
+  padding: 100px 150px;
+  margin: 100px 0;
+  text-align: center;
+}
+
+.pricing {
+  margin-top: 50px;
+  text-align: center;
+  font-family: "Montserrat";
+}
+
+.card {
+  margin: 50px 70px;
+}
+
+.card-header {
+  background-color: #54BAB9;
+}
+
+.extra-ameniy-note {
+  font-size: 10px;
+}
+
+.contact-form {
+  margin: 50px;
+}
+
+.comment-submit {
+  margin-top: 20px;
+}
+
+.comment-section {
+  margin-top: 50px;
+  text-align: center;
+  font-family: "Montserrat";
+}
+
+.bottom-container {
+  padding: 25px;
+  padding-left: 275px;
+  background-color: #54BAB9;
+}
+
+.copyright-text {
+  font-size: 12px;
+  margin-left: 300px;
+}
+
+.footer-btn {
+  height: 50px;
+  width: 50px;
+  background-color: transparent;
+  border: none;
+  margin: 20px;
+}
